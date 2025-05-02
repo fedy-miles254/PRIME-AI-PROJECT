@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PRIME AI PROJECT</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial, background: #121212; color: #f0f0f0; text-align: center; padding-top: 100px; }
+    h1 { color: #00ffcc; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to the PRIME AI PROJECT</h1>
+  <p>This site is hosted using GitHub Pages from my Android phone.</p>
+</body>
+</html>
